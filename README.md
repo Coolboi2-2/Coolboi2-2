@@ -7,17 +7,20 @@
 </p>
 
 ## 📌 About Me
-- 💻 BCA Sophomore @ SMIT
-- ⚙️ Hardware nerd & tech explorer (Python / DSA)
-- 🎮 Catch me on Valorant or Minecraft or Counter Strike 2
-- Leveling up in code and gaming every day. 🚀
+🎨 **UI/UX & Web Designer** | Aspiring UI/UX Engineer  
+🎓 **3rd Year (Junior) Student** @ Saroj Mohan Institute of Technology (SMIT)  
+⏳ **Expected Graduation:** July 2028  
+📍 **Location:** Kolkata, West Bengal, India  
 
+---
 
-## 🧠 My Focus Areas
-- 1. Master Data Structures and Algorithms (DSA)
-- 2. Build Logic-Heavy Projects
-- 3. Explore System-Level and Hardware Interactions
-- 4. Learn "Real-World" Developer Tools
+### 🚀 About Me
+* 🎨 Currently honing my skills toward becoming a **Junior / Mid-Level UI/UX Designer**
+* 🌐 Deepening my expertise in **Web Design, Interface Architecture, and User Research**
+* 🔭 Working on building intuitive, user-centered digital experiences and design systems
+* 🎯 Long-term Goal: Transitioning into a **UI/UX Engineer** bridging design and code
+* 💼 Open for **UI/UX & Product Design Internship Opportunities**
+* 📫 Reach me: **halderdibes84@gmail.com** | **[LinkedIn Profile](https://www.linkedin.com/in/dibes-halder-b81463331/)**
 
 
 ## 📊 GitHub Stats & Trophies
